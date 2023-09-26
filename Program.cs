@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //Привет Леха
             Console.WriteLine("Hello, World!");
         }
     }
